@@ -15,7 +15,7 @@ Cuando hablo de que una presentación tiene que ser adecuada me refiero a que se
 
 Por esta razón para un ambiente más _tenso_ y/o _serio_ lo más correcto sería una presentación simple, al grano y corta.
 
-Por otro lado, si estamos en un ambiente más _activo_ y/o _animado_ lo ideal sería utilizar una presentación más [larga](#defincionDeLargo) y amena para el espectador.
+Por otro lado, si estamos en un ambiente más _activo_ y/o _animado_ lo ideal sería utilizar una presentación más [larga](./defincionDeLargo.md) y amena para el espectador.
 
 > [!NOTE]
 > Alguna de las ideas para animar al público pueden ser: llamadas de atención, pausas más largas, preguntas al espectador...
