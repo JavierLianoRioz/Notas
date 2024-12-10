@@ -2,9 +2,9 @@
 
 Cuando trabajamos en una presentación tiene que cumplir las siguientes rasgos:
 
-1. [Adecuación.](#adecuación)
-2. [Diseño.](#diseño)
-3. [Información.](#informacion)
+1. Adecuación.
+2. Diseño.
+3. Información.
 
 ## ✔ Adecuación
 
