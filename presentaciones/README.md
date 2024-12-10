@@ -6,7 +6,7 @@ Cuando trabajamos en una presentación tiene que cumplir las siguientes rasgos:
 2. [Diseño.](#diseño)
 3. [Información.](#informacion)
 
-## Adecuación
+## ✔ Adecuación
 
 Cuando hablo de que una presentación tiene que ser adecuada me refiero a que se adapte a lo que el usuario estandar de la charla quiere.
 
@@ -20,7 +20,7 @@ Por otro lado, si estamos en un ambiente más _activo_ y/o _animado_ lo ideal se
 > [!NOTE]
 > Alguna de las ideas para animar al público pueden ser: llamadas de atención, pausas más largas, preguntas al espectador...
 
-## Diseño
+## 💫 Diseño
 
 A la hora de diseñar una presentación hay que tener en cuenta lo antes hablado para la estetica en general. Pero si nos vamos a detalles destacaría lo siguiente:
 
@@ -33,7 +33,7 @@ A la hora de diseñar una presentación hay que tener en cuenta lo antes hablado
   - NO sobresaturar.
 - Aplicar practicas de diseño digital [refs](./referencias.md/#diseño-digital)
 
-## Información
+## ℹ Información
 
 Se que a nadie le gusta, pero hay que aceptarlo. NO PUEDES PRESENTAR SI NO SABES QUE PRESENTAS. No te pido que te lo aprendas de memoria hasta los puntos, pero que sepas de lo que estas hablando. Necesitas saber de que hablas para poder defenderlo.
 
