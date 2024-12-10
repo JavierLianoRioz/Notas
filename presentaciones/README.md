@@ -42,4 +42,4 @@ Se que a nadie le gusta, pero hay que aceptarlo. NO PUEDES PRESENTAR SI NO SABES
 
 ---
 
-Además y para finalizar, quiero recordar que nunca viene mal tanto hacer pública la presnetación (a menos que no se pueda por motivos legales) al público y que se le de acceso también a la infografía de estas diapositivas.
+Además y para finalizar, quiero recordar que nunca viene mal tanto hacer pública la presentación (a menos que no se pueda por motivos legales) al público y que se le de acceso también a la infografía de estas diapositivas.
