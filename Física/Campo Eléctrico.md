@@ -1,0 +1,1 @@
+El origen del campo eléctrico se origina en la propiedad material de la [[Carga Eléctrica|carga eléctrica]]. 

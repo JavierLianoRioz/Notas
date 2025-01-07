@@ -1,0 +1,10 @@
+- Multidisciplinar
+- Ingenioso -> [[Innovación]]
+- Creativo
+- Pasión por la ciencia
+- Actitud analítica
+- Trabajador
+- Social
+- Mente lógica
+- Detallista
+- Estudioso

@@ -1,0 +1,9 @@
+{
+  "alwaysUpdateLinks": true,
+  "vimMode": true,
+  "attachmentFolderPath": "./",
+  "newFileLocation": "current",
+  "tabSize": 8,
+  "promptDelete": false,
+  "defaultViewMode": "preview"
+}

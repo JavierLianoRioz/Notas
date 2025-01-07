@@ -1,0 +1,6 @@
+- Mejorar el diseño de las aplicaciones
+- Aclarar conceptos
+- Estimación de costos y tiempo con exactitud.
+- Mejorar la organización de equipos de trabajo.
+- Anticipación a los errores.
+- Disminuir el esfuerzo con mantenimiento.

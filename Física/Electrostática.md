@@ -1,0 +1,2 @@
+Las [[Fuerza electromagnética|fuerzas electromagnéticas]] se componen de fuerzas de origen eléctrico y magnético.
+Las [[Ley de Coulomb#Fuerza eléctrica|fuerzas eléctricas]] son originadas por la acción de un [[Campo Eléctrico|campo eléctrico]].
