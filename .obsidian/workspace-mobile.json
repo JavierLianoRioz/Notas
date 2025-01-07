@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "b4a2720df1879a5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3ee5776921bd060",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efb3f31864d12d7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IGPS/Software e Ingeniería/000 - Software e ingeniería de software.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "000 - Software e ingeniería de software"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0d4b0d75a47295da",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0147640bc933dee8",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "092789fde1192f75",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "3289590c81da5da4",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "94a3518b98893723",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "0209b9d9eb3e2172",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "eb276cf41f703889",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "IGPS/Software e Ingeniería/000 - Software e ingeniería de software.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "2576e2c0cb602bee",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "IGPS/Software e Ingeniería/000 - Software e ingeniería de software.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "d587e01f550a7b9f",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "IGPS/Software e Ingeniería/000 - Software e ingeniería de software.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "677c9f39767ec2a8",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "efb3f31864d12d7f",
+  "lastOpenFiles": [
+    "IGPS/Software e Ingeniería/000 - Software e ingeniería de software.md",
+    "IGPS/000 - Introducción a gestión de proyectos de software.md",
+    "Física/Fuerza Magnética.md",
+    "Home title.md",
+    "IGPS/Software e Ingeniería/Software/Software.md",
+    "IGPS/Software e Ingeniería/Software/Procesos de Software/img/Pasted image 20250106203414.png",
+    "IGPS/Software e Ingeniería/Software/Procesos de Software/img/Pasted image 20250106203356.png",
+    "IGPS/Software e Ingeniería/Software/Procesos de Software/img/Pasted image 20250106203348.png",
+    "IGPS/Software e Ingeniería/Software/Procesos de Software/img/Pasted image 20250106202958.png",
+    "IGPS/Software e Ingeniería/Software/Procesos de Software/img/Pasted image 20250106192901.png",
+    "IGPS/Software e Ingeniería/Software/Procesos de Software/img/Pasted image 20250106192717.png",
+    "IGPS/Software e Ingeniería/Software/Procesos de Software/img/Pasted image 20250106192649.png",
+    "IGPS/Software e Ingeniería/Software/Procesos de Software/img/Pasted image 20250106192620.png",
+    "IGPS/Software e Ingeniería/Software/Procesos de Software/img/Pasted image 20250106192601.png",
+    "IGPS/Software e Ingeniería/Software/Procesos de Software/Procesos de Software.md",
+    "IGPS/Software e Ingeniería/Software/Procesos de Software/Modelos de procesos descriptivos.md",
+    "IGPS/Software e Ingeniería/Software/Procesos de Software/Flujos de actividades.md",
+    "IGPS/Software e Ingeniería/Software/Problemas.md",
+    "IGPS/Software e Ingeniería/Software/Objetivos.md",
+    "IGPS/Software e Ingeniería/Software/Historia.md",
+    "IGPS/Software e Ingeniería/Software/Costes.md",
+    "IGPS/Software e Ingeniería/Software/Atributos.md",
+    "IGPS/Software e Ingeniería/Ingeniería de Software/Ingeniería de Software.md",
+    "IGPS/Software e Ingeniería/Ingeniería de Software/Grandes ingenieros.md",
+    "IGPS/Software e Ingeniería/Ingeniería de Software/Cualidades.md",
+    "IGPS/Priorización/Votación.md",
+    "IGPS/Priorización/Métodos de priorización.md",
+    "IGPS/Priorización/MoSCoW.md",
+    "IGPS/Priorización/Cinco Porqués.md",
+    "IGPS/Priorización/Apuestas.md",
+    "IGPS/Metodologías Ágile/Scrum/Time Boxing.md",
+    "IGPS/Metodologías Ágile/Scrum/Scrum.md",
+    "IGPS/Metodologías Ágile/Scrum/Eventos Scrum/Sprint review.md",
+    "IGPS/Metodologías Ágile/Scrum/Eventos Scrum/Sprint retrsopective.md",
+    "IGPS/Metodologías Ágile/Scrum/Eventos Scrum/Sprint planing.md",
+    "IGPS/Innovación/img/Pasted image 20250107122736.png",
+    "IGPS/Software e Ingeniería/Software/Procesos de Software/img",
+    "IGPS/Software e Ingeniería/Software/Procesos de Software",
+    "IGPS/Metodologías Ágile/Scrum/Eventos Scrum",
+    "IGPS/Metodologías Ágile/Scrum/Equipo Scrum",
+    "IGPS/Software e Ingeniería/Software",
+    "IGPS/Software e Ingeniería/Ingeniería de Software",
+    "IGPS/Metodologías Ágile/Scrum",
+    "IGPS/Innovación/img",
+    "IGPS/Software e Ingeniería",
+    "IGPS/Priorización"
+  ]
+}

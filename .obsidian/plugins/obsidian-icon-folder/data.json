@@ -5,16 +5,18 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [
-      "LiInfo",
-      "LiImage",
-      "LiAlertCircle"
-    ],
+    "recentlyUsedIcons": [],
     "recentlyUsedIconsSize": 5,
     "rules": [
       {
-        "rule": "img",
+        "rule": "Img",
         "icon": "LiImage",
+        "for": "everything",
+        "order": 0
+      },
+      {
+        "rule": "000",
+        "icon": "LiInfo",
         "for": "everything",
         "order": 1
       }
@@ -38,8 +40,5 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  },
-  "IGPS/Introducción a gestión de proyectos de software.md": "LiInfo",
-  "IGPS/Innovación/img": "LiImage",
-  "Física/Física.md": "LiInfo"
+  }
 }
