@@ -8,6 +8,7 @@ Un proceso de negocio que crea: *nuevos productos, servicios, procesos, modelos 
 - Deseable.
 - Técnicamente factible.
 - Económicamente viable.
+
 [[Modelo Technological-Push]]
 [[Modelo Market-Pull]]
 [[Modelo Marquis]]
@@ -15,7 +16,6 @@ Un proceso de negocio que crea: *nuevos productos, servicios, procesos, modelos 
 [[Modelo mixto]]
 [[Modelo integrado de procesos]]
 [[Modelo en sistemas y en red]]
-
 ## Esquema de innovación
 - Individual: Los propios trabajadores
 - Incremental: Mejora continua de las formas de producción.

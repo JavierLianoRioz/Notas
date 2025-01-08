@@ -1,7 +1,7 @@
 ## Temas
-1. [[000 - Software e ingeniería de software|software e ingeniería]]
-2. [[Procesos de Software|Proceso del software]]
+1. [[000 - Software e ingeniería de software|Software e ingeniería]]
+2. [[000 - Procesos de Software|Proceso del software]]
 3. GIT
-4. [[Metodologías Ágiles|SCRUM]]
-5. [[Innovación]]
-6. [[Métodos de priorización|Priorización]]
+4. [[000 - Metodologías Ágiles|SCRUM]]
+5. [[000 - Innovación|Innovación]]
+6. [[000 - Métodos de priorización|Priorización]]

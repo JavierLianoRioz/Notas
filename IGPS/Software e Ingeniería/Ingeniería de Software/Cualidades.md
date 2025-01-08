@@ -1,5 +1,5 @@
 - Multidisciplinar
-- Ingenioso -> [[Innovación]]
+- Ingenioso
 - Creativo
 - Pasión por la ciencia
 - Actitud analítica

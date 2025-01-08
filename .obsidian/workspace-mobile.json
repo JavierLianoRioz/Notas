@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c43e931a3edd4685",
+        "id": "a96867d9fc50ad73",
         "type": "tabs",
         "children": [
           {
-            "id": "2ab2bb200f687924",
+            "id": "98c5f900eceb48f4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "IGPS/Metodologías Ágile/Scrum/Eventos Scrum/Retrospectiva Loco Triste Alegre.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Retrospectiva Loco Triste Alegre"
             }
           }
         ]
@@ -44,7 +49,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "path:\"IGPS/\" ",
+            "query": "000",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -151,13 +156,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2ab2bb200f687924",
+  "active": "98c5f900eceb48f4",
   "lastOpenFiles": [
-    "IGPS/Software e Ingeniería/000 - Software e ingeniería de software.md",
+    "IGPS/Metodologías Ágile/Scrum/Eventos Scrum/Sprint retrsopective.md",
+    "IGPS/Metodologías Ágile/Scrum/Eventos Scrum/Retrospectiva Loco Triste Alegre.md",
+    "IGPS/Metodologías Ágile/Scrum/Eventos Scrum/Retrospectiva Start stop continue.md",
+    "IGPS/Metodologías Ágile/Scrum/Eventos Scrum/Retrospectiva de juego de rol.md",
+    "IGPS/Metodologías Ágile/Scrum/Eventos Scrum/Retrospectiva DAKI.md",
+    "IGPS/Metodologías Ágile/Scrum/Eventos Scrum/Retrospectiva de lo bueno, lo malo y lo feo.md",
+    "IGPS/Metodologías Ágile/Scrum/Eventos Scrum/Retrospectiva de índice de felicidad.md",
+    "IGPS/Innovación/000 - Innovación.md",
+    "IGPS/Innovación/Modelo de índice de felicidad.md",
+    "IGPS/Innovación/Modelo en sistemas y en red.md",
     "IGPS/000 - Introducción a gestión de proyectos de software.md",
-    "Física/Fuerza Magnética.md",
-    "Home title.md",
+    "IGPS/Software e Ingeniería/000 - Software e ingeniería de software.md",
     "IGPS/Software e Ingeniería/Software/Software.md",
+    "IGPS/Software e Ingeniería/Software/Costes.md",
+    "IGPS/Software e Ingeniería/Software/Problemas.md",
+    "IGPS/Software e Ingeniería/Software/Atributos.md",
+    "Untitled.md",
+    "IGPS/Innovación/Modelo Technological-Push.md",
+    "IGPS/Innovación/Modelo integrado de procesos.md",
+    "IGPS/Innovación/Modelo por etapas.md",
+    "IGPS/Innovación/Modelo Market-Pull.md",
+    "IGPS/Priorización/000 - Métodos de priorización.md",
+    "IGPS/Software e Ingeniería/Software/Procesos de Software/000 - Procesos de Software.md",
+    "IGPS/Metodologías Ágile/000 - Metodologías Ágiles.md",
+    "IGPS/Priorización/Votación.md",
+    "IGPS/Innovación/Modelo Marquis.md",
     "IGPS/Software e Ingeniería/Software/Procesos de Software/img/Pasted image 20250106203414.png",
     "IGPS/Software e Ingeniería/Software/Procesos de Software/img/Pasted image 20250106203356.png",
     "IGPS/Software e Ingeniería/Software/Procesos de Software/img/Pasted image 20250106203348.png",
@@ -167,27 +193,6 @@
     "IGPS/Software e Ingeniería/Software/Procesos de Software/img/Pasted image 20250106192649.png",
     "IGPS/Software e Ingeniería/Software/Procesos de Software/img/Pasted image 20250106192620.png",
     "IGPS/Software e Ingeniería/Software/Procesos de Software/img/Pasted image 20250106192601.png",
-    "IGPS/Software e Ingeniería/Software/Procesos de Software/Procesos de Software.md",
-    "IGPS/Software e Ingeniería/Software/Procesos de Software/Modelos de procesos descriptivos.md",
-    "IGPS/Software e Ingeniería/Software/Procesos de Software/Flujos de actividades.md",
-    "IGPS/Software e Ingeniería/Software/Problemas.md",
-    "IGPS/Software e Ingeniería/Software/Objetivos.md",
-    "IGPS/Software e Ingeniería/Software/Historia.md",
-    "IGPS/Software e Ingeniería/Software/Costes.md",
-    "IGPS/Software e Ingeniería/Software/Atributos.md",
-    "IGPS/Software e Ingeniería/Ingeniería de Software/Ingeniería de Software.md",
-    "IGPS/Software e Ingeniería/Ingeniería de Software/Grandes ingenieros.md",
-    "IGPS/Software e Ingeniería/Ingeniería de Software/Cualidades.md",
-    "IGPS/Priorización/Votación.md",
-    "IGPS/Priorización/Métodos de priorización.md",
-    "IGPS/Priorización/MoSCoW.md",
-    "IGPS/Priorización/Cinco Porqués.md",
-    "IGPS/Priorización/Apuestas.md",
-    "IGPS/Metodologías Ágile/Scrum/Time Boxing.md",
-    "IGPS/Metodologías Ágile/Scrum/Scrum.md",
-    "IGPS/Metodologías Ágile/Scrum/Eventos Scrum/Sprint review.md",
-    "IGPS/Metodologías Ágile/Scrum/Eventos Scrum/Sprint retrsopective.md",
-    "IGPS/Metodologías Ágile/Scrum/Eventos Scrum/Sprint planing.md",
     "IGPS/Innovación/img/Pasted image 20250107122736.png",
     "IGPS/Software e Ingeniería/Software/Procesos de Software/img",
     "IGPS/Software e Ingeniería/Software/Procesos de Software",
