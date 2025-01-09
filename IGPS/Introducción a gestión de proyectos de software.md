@@ -4,7 +4,7 @@ tags:
 ---
 ## Temas
 1. [[Software e ingeniería de software|Software e ingeniería]]
-2. [[000 - Procesos de Software|Proceso del software]]
+2. [[Procesos de Software|Proceso del software]]
 3. GIT
 4. [[Metodologías Ágiles|SCRUM]]
 5. [[Innovación|Innovación]]

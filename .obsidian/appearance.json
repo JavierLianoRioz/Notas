@@ -1,7 +1,7 @@
 {
   "textFontFamily": "FiraCode Nerd Font",
   "cssTheme": "Things",
-  "accentColor": "",
+  "accentColor": "#4af2c0",
   "nativeMenus": false,
   "baseFontSizeAction": false,
   "baseFontSize": 16
