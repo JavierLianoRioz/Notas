@@ -5,18 +5,16 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "LiInfo",
+      "LiImage",
+      "LiAlertCircle"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [
       {
-        "rule": "Img",
+        "rule": "img",
         "icon": "LiImage",
-        "for": "everything",
-        "order": 0
-      },
-      {
-        "rule": "000",
-        "icon": "LiInfo",
         "for": "everything",
         "order": 1
       }
@@ -40,5 +38,7 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  }
+  },
+  "IGPS/Innovación/img": "LiImage",
+  "Física/Física.md": "LiInfo"
 }
