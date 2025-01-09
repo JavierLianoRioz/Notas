@@ -55,13 +55,6 @@
 3. **Modelo de innovación (5 puntos):**
  * Explica brevemente las características del modelo Technological-Push
 
-**Sección 5: Prerrequisitos (Opcional - 10 puntos Extra)**
-
-1.  **Matemáticas y Física (10 puntos):**
-    *   Explica la importancia de al menos 2 conceptos de matemáticas y 2 conceptos de física en la ingeniería de software.
-
-**¡Éxito en tu examen!**
-
 **Criterios de Evaluación:**
 
 *   **Precisión:** La exactitud y corrección de las respuestas.
