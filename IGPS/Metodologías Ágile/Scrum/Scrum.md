@@ -20,7 +20,8 @@
 
 1. Visión.
 2. User Stories.
-3. {productbacklog} Product Backlog. 
+3. Product Backlog. 
+	- [[Priorización]].
 4. [[Sprint planing]].
 5. Selected product backlog.
 6. [[Sprint planing]].
@@ -28,4 +29,4 @@
 8. Sprint (2-4 semanas) -> [[Daily Scrum]] (24 horas).
 9. new functionality.
 10. [[Sprint review]].
-11. [[Sprint retrsopective]]. {productbacklog|red|10}
+11. [[Sprint retrsopective]].
