@@ -14,7 +14,7 @@
 ### Equipo Scrum
 
 -  Equipo de desarrollo.
-- [[Producto Owner (P.O.)]].
+- [[Product Owner]].
 - [[Scrum Master]].
 ## Fases
 

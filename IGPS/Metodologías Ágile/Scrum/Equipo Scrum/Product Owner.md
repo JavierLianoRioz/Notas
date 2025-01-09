@@ -1,6 +1,8 @@
 ---
 tags:
   - Equipo_Scrum
+aliases:
+  - PO
 ---
 ?Conocido normalmente como Analista.
 ## Características:

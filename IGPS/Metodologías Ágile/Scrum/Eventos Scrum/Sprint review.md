@@ -3,7 +3,7 @@ tags:
   - Eventos_Scrum
 ---
 
-Presentación al [[Producto Owner (P.O.)]] y otros.
+Presentación al [[Product Owner]] y otros.
 
-[[Producto Owner (P.O.)]] explica lo que se ha terminado y lo que no.
+[[Product Owner]] explica lo que se ha terminado y lo que no.
 [[Developer Team (D.T.)]] explica lo que estuvo bien y que no durante el sprint.
