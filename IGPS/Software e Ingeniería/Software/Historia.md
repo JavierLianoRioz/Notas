@@ -3,7 +3,7 @@
 -> Codificar y corregir
 -> Sin planificación previa.
 -> Sin documentación.
--> Pocas [[000 - Metodologías Ágiles|metodologías]].
+-> Pocas [[Metodologías Ágiles|metodologías]].
 -> Avance en base a prueba-error.
 #### Segunda etapa
 (65)
