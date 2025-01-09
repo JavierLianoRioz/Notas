@@ -1,4 +1,4 @@
-#Procesos
+[[Procesos]]
 
 Dirección de una secuencia de actividades cuyo objetivo es generar un conjunto de productos, uno de ellos siendo la solución deseada.
 ## Actividades 

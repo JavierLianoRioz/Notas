@@ -1,4 +1,4 @@
-#Procesos
+[[Procesos]]
 
 Un proceso de negocio que crea: *nuevos productos, servicios, procesos, modelos de negocio y mercados*. Debe entregar valor al usuario y deben ser **suficiente diferentes** a los ya existentes. Este proceso debe ser rápido para mantener los **retornos por encima del promedio** y que de esta manera se **sostenga** en el tiempo.
 > "La verdadera innovación debe ser un proceso sistemático."
