@@ -34,7 +34,7 @@
         "model_key": "gpt-4o"
       },
       "open_router": {
-        "model_key": "google/gemini-2.0-flash-exp:free",
+        "model_key": "openai/gpt-4-turbo",
         "models": {
           "microsoft/phi-4": {
             "model_name": "microsoft/phi-4",
@@ -7046,6 +7046,9 @@
           }
         },
         "api_key": "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"
+      },
+      "gemini": {
+        "model_key": ""
       }
     },
     "embed_model": {

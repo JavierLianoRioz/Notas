@@ -162,29 +162,9 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "7659cfe60f7155a8",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "smart-connections",
-              "title": "Smart Connections"
-            }
-          },
-          {
-            "id": "9e8664b45070b51d",
-            "type": "leaf",
-            "state": {
-              "type": "smart-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Smart Chat"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -205,7 +185,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "9e8664b45070b51d",
+  "active": "82cfdad25a70c521",
   "lastOpenFiles": [
     "Nuevo documento de texto.txt",
     "Recursos/universidad/IGPS/Presentaciones de clase/05-IGPS-GIT-_1_.pdf",
