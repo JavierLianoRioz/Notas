@@ -39,6 +39,6 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "IGPS/Innovación/img": "LiImage",
-  "Física/Física.md": "LiInfo"
+  "Areas/Física/Física.md": "LiInfo",
+  "Areas/IGPS/Innovación/img": "LiImage"
 }
