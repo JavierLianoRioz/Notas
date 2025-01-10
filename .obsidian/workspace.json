@@ -184,7 +184,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -205,8 +205,9 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "82cfdad25a70c521",
+  "active": "9e8664b45070b51d",
   "lastOpenFiles": [
+    "Nuevo documento de texto.txt",
     "Recursos/universidad/IGPS/Presentaciones de clase/05-IGPS-GIT-_1_.pdf",
     "Recursos/universidad/IGPS/Presentaciones de clase/06-IGPS-GIT-_2_.pdf",
     "Física/Fuerza de Lorentz.md",
@@ -221,7 +222,6 @@
     "Recursos/universidad/Mates/CONFERENCIAS/segundo parcial/CONF18/7.2.pdf",
     "Recursos/universidad/Mates/CONFERENCIAS/segundo parcial/CONF14/CONF14 - Álgebra Lineal e Inversión de Matriz.pdf",
     "Recursos/universidad/Mates/CONFERENCIAS/segundo parcial/CONF17/7.1.pdf",
-    "Recursos/universidad/Mates/CONFERENCIAS/segundo parcial/CONF15/6.4.pdf",
     "Recursos/universidad/IGPS/README.md",
     "Recursos/universidad/IGPS/brain_storming.md",
     "Recursos/universidad/Física/electromagnetismo.md",
