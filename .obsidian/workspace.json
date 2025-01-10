@@ -11,15 +11,12 @@
             "id": "76765c33e9b691da",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "IGPS/Metodologías Ágile/Scrum/Scrum.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
+                "file": "Recursos/universidad/IGPS/Presentaciones de clase/04-IGPS-Proceso-del-Software-_2_.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Scrum"
+              "icon": "lucide-file-text",
+              "title": "04-IGPS-Proceso-del-Software-_2_"
             }
           }
         ]
@@ -94,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IGPS/Metodologías Ágile/Scrum/Scrum.md",
+                "file": "Recursos/universidad/IGPS/Presentaciones de clase/04-IGPS-Proceso-del-Software-_2_.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +101,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Scrum"
+              "title": "Enlaces entrantes de 04-IGPS-Proceso-del-Software-_2_"
             }
           },
           {
@@ -187,11 +184,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 590.5
+    "width": 705.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,12 +205,27 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "98a7b83f5d25dd02",
+  "active": "82cfdad25a70c521",
   "lastOpenFiles": [
-    "Recursos",
-    "Areas",
-    "IGPS/Metodologías Ágile/Scrum/Time Boxing.md",
+    "Recursos/universidad/IGPS/Presentaciones de clase/05-IGPS-GIT-_1_.pdf",
+    "Recursos/universidad/IGPS/Presentaciones de clase/06-IGPS-GIT-_2_.pdf",
+    "Física/Fuerza de Lorentz.md",
+    "Física/Fuerza Magnética.md",
+    "Física/Física.md",
+    "Recursos/universidad/IGPS/Presentaciones de clase/04-IGPS-Proceso-del-Software-_2_.pdf",
+    "Recursos/universidad/IGPS/Presentaciones de clase/01-IGPS-Software-e-Ingeniería-_1_.pdf",
     "IGPS/Metodologías Ágile/Scrum/Scrum.md",
+    "Recursos/universidad/Mates/CONFERENCIAS/segundo parcial/CONF18/CONF18 - Autovalores y Autovectores.pdf",
+    "Recursos/universidad/Mates/CONFERENCIAS/segundo parcial/CONF15/CONF15 - Determinantes.pdf",
+    "Recursos/universidad/Mates/CONFERENCIAS/segundo parcial/CONF17/CONF17 - Normas de Vectores y Matrices.pdf",
+    "Recursos/universidad/Mates/CONFERENCIAS/segundo parcial/CONF18/7.2.pdf",
+    "Recursos/universidad/Mates/CONFERENCIAS/segundo parcial/CONF14/CONF14 - Álgebra Lineal e Inversión de Matriz.pdf",
+    "Recursos/universidad/Mates/CONFERENCIAS/segundo parcial/CONF17/7.1.pdf",
+    "Recursos/universidad/Mates/CONFERENCIAS/segundo parcial/CONF15/6.4.pdf",
+    "Recursos/universidad/IGPS/README.md",
+    "Recursos/universidad/IGPS/brain_storming.md",
+    "Recursos/universidad/Física/electromagnetismo.md",
+    "IGPS/Metodologías Ágile/Scrum/Time Boxing.md",
     "IGPS/Metodologías Ágile/Scrum/Equipo Scrum/Product Owner.md",
     "IGPS/Priorización/Priorización.md",
     "IGPS/Introducción a gestión de proyectos de software.md",
@@ -231,25 +243,10 @@
     "IGPS/Software e Ingeniería/Software/Procesos de Software/Flujos de actividades.md",
     "IGPS/Software e Ingeniería/Ingeniería de Software/Ingeniería de Software.md",
     "IGPS/Software e Ingeniería/Software/Software.md",
-    "IGPS/Software e Ingeniería/Software/Historia.md",
-    "IGPS/Pruebas de exámen/PRUEBA IGPS FINAL 1.md",
-    "IGPS/Pruebas de exámen",
-    "IGPS/Metodologías Ágile/Scrum/Eventos Scrum/Daily Scrum.md",
-    "IGPS/Metodologías Ágile/Scrum/Eventos Scrum/Tipos de Retrospectivas/Retrospectiva DAKI.md",
-    "IGPS/Metodologías Ágile/Scrum/Eventos Scrum/Tipos de Retrospectivas",
-    "IGPS/Priorización/Métodos de priorización/Cinco Porqués.md",
-    "IGPS/Priorización/Métodos de priorización/Apuestas.md",
-    "IGPS/Priorización/Métodos de priorización",
     "Física/Pasted image 20250107191608.png",
     "Física/Pasted image 20250107190817.png",
-    "Física",
-    "IGPS/Software e Ingeniería",
-    "IGPS",
     "IGPS/Software e Ingeniería/Software/Procesos de Software/img/Pasted image 20250106192601.png",
-    "IGPS/Software e Ingeniería/Software/Procesos de Software/img",
     "IGPS/Innovación/img/Pasted image 20250107112035.png",
-    "IGPS/Innovación/img",
-    "IGPS/Priorización",
     "IGPS/Innovación/img/Pasted image 20250107122736.png",
     "IGPS/Innovación/img/Pasted image 20250107121504.png",
     "IGPS/Innovación/img/Pasted image 20250107121335.png",
