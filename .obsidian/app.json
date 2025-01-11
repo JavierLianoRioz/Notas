@@ -5,5 +5,7 @@
   "newFileLocation": "current",
   "tabSize": 8,
   "promptDelete": false,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "showInlineTitle": false,
+  "showRibbon": true
 }

@@ -4,5 +4,6 @@
   "accentColor": "#4af2c0",
   "nativeMenus": false,
   "baseFontSizeAction": false,
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "showViewHeader": false
 }

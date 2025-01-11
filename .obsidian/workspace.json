@@ -11,15 +11,60 @@
             "id": "76765c33e9b691da",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Recursos/universidad/Mates/EJERCICIOS DE EXAMEN/EJERCICIOS EXAMEN FINAL 17-18.pdf"
+                "file": "Areas/IGPS/Software e Ingeniería/Ingeniería de Software/Ingeniería de Software.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "EJERCICIOS EXAMEN FINAL 17-18"
+              "icon": "lucide-file",
+              "title": "Ingeniería de Software"
+            }
+          },
+          {
+            "id": "3c804e11180e1e22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/IGPS/Software e Ingeniería/Software/Costes.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Costes"
+            }
+          },
+          {
+            "id": "df45438f70ef04be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/IGPS/Software e Ingeniería/Software/Software.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Software"
+            }
+          },
+          {
+            "id": "481d746fba1a19b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/IGPS/Software e Ingeniería/Software/Historia.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Historia"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -184,8 +229,20 @@
       "markdown-importer:Abrir el importador de Markdown": true
     }
   },
-  "active": "76765c33e9b691da",
+  "active": "481d746fba1a19b8",
   "lastOpenFiles": [
+    "Areas/IGPS/Software e Ingeniería/Software/Software.md",
+    "Areas/IGPS/Software e Ingeniería/Software/Costes.md",
+    "Areas/IGPS/Software e Ingeniería/Ingeniería de Software/Ingeniería de Software.md",
+    "Areas/IGPS/Software e Ingeniería/Ingeniería de Software/Cualidades.md",
+    "Areas/IGPS/Software e Ingeniería/Ingeniería de Software/Grandes ingenieros.md",
+    "Areas/IGPS/Introducción a gestión de proyectos de software.md",
+    "Areas/IGPS/Software e Ingeniería/Software e ingeniería de software.md",
+    "Areas/IGPS/Software e Ingeniería/Software/Objetivos.md",
+    "Areas/IGPS/Software e Ingeniería/Software/Atributos.md",
+    "Areas/IGPS/Metodologías Ágile/Scrum/Time Boxing.md",
+    "Areas/IGPS/Metodologías Ágile/Scrum/Scrum.md",
+    "Recursos/universidad/Mates/EJERCICIOS DE EXAMEN/EJERCICIOS EXAMEN FINAL 17-18.pdf",
     "theme.css",
     "Recursos/universidad/IGPS/Presentaciones de clase/04-IGPS-Proceso-del-Software-_2_.pdf",
     "Nuevo documento de texto.txt",
@@ -195,19 +252,14 @@
     "Areas/Física/Fuerza Magnética.md",
     "Areas/Física/Física.md",
     "Recursos/universidad/IGPS/Presentaciones de clase/01-IGPS-Software-e-Ingeniería-_1_.pdf",
-    "Areas/IGPS/Metodologías Ágile/Scrum/Scrum.md",
     "Recursos/universidad/Mates/CONFERENCIAS/segundo parcial/CONF18/CONF18 - Autovalores y Autovectores.pdf",
     "Recursos/universidad/Mates/CONFERENCIAS/segundo parcial/CONF15/CONF15 - Determinantes.pdf",
     "Recursos/universidad/Mates/CONFERENCIAS/segundo parcial/CONF17/CONF17 - Normas de Vectores y Matrices.pdf",
-    "Recursos/universidad/Mates/CONFERENCIAS/segundo parcial/CONF18/7.2.pdf",
-    "Recursos/universidad/Mates/CONFERENCIAS/segundo parcial/CONF14/CONF14 - Álgebra Lineal e Inversión de Matriz.pdf",
     "Recursos/universidad/IGPS/README.md",
     "Recursos/universidad/IGPS/brain_storming.md",
     "Recursos/universidad/Física/electromagnetismo.md",
-    "Areas/IGPS/Metodologías Ágile/Scrum/Time Boxing.md",
     "Areas/IGPS/Metodologías Ágile/Scrum/Equipo Scrum/Product Owner.md",
     "Areas/IGPS/Priorización/Priorización.md",
-    "Areas/IGPS/Introducción a gestión de proyectos de software.md",
     "Areas/IGPS/Metodologías Ágile/Metodologías Ágiles.md",
     "Areas/IGPS/Innovación/Innovación.md",
     "Areas/IGPS/Innovación/Modelo en sistemas y en red.md",
@@ -215,13 +267,6 @@
     "Areas/IGPS/Innovación/Modelo mixto.md",
     "Areas/IGPS/Innovación/Modelo por etapas.md",
     "Areas/IGPS/Innovación/Modelo Marquis.md",
-    "Areas/IGPS/Innovación/Modelo Market-Pull.md",
-    "Areas/IGPS/Innovación/Modelo Technological-Push.md",
-    "Areas/IGPS/Software e Ingeniería/Software/Procesos de Software/Procesos de Software.md",
-    "Areas/IGPS/Software e Ingeniería/Software/Procesos de Software/Modelos de procesos descriptivos.md",
-    "Areas/IGPS/Software e Ingeniería/Software/Procesos de Software/Flujos de actividades.md",
-    "Areas/IGPS/Software e Ingeniería/Ingeniería de Software/Ingeniería de Software.md",
-    "Areas/IGPS/Software e Ingeniería/Software/Software.md",
     "Areas/Física/Pasted image 20250107191608.png",
     "Areas/Física/Pasted image 20250107190817.png",
     "Areas/IGPS/Software e Ingeniería/Software/Procesos de Software/img/Pasted image 20250106192601.png",
