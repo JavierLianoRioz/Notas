@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Recursos/universidad/IGPS/Presentaciones de clase/04-IGPS-Proceso-del-Software-_2_.pdf"
+                "file": "Recursos/universidad/Mates/EJERCICIOS DE EXAMEN/EJERCICIOS EXAMEN FINAL 17-18.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "04-IGPS-Proceso-del-Software-_2_"
+              "title": "EJERCICIOS EXAMEN FINAL 17-18"
             }
           }
         ]
@@ -168,7 +168,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 705.5
+    "width": 705.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,15 +184,16 @@
       "markdown-importer:Abrir el importador de Markdown": true
     }
   },
-  "active": "98a7b83f5d25dd02",
+  "active": "76765c33e9b691da",
   "lastOpenFiles": [
+    "theme.css",
+    "Recursos/universidad/IGPS/Presentaciones de clase/04-IGPS-Proceso-del-Software-_2_.pdf",
     "Nuevo documento de texto.txt",
     "Recursos/universidad/IGPS/Presentaciones de clase/05-IGPS-GIT-_1_.pdf",
     "Recursos/universidad/IGPS/Presentaciones de clase/06-IGPS-GIT-_2_.pdf",
     "Areas/Física/Fuerza de Lorentz.md",
     "Areas/Física/Fuerza Magnética.md",
     "Areas/Física/Física.md",
-    "Recursos/universidad/IGPS/Presentaciones de clase/04-IGPS-Proceso-del-Software-_2_.pdf",
     "Recursos/universidad/IGPS/Presentaciones de clase/01-IGPS-Software-e-Ingeniería-_1_.pdf",
     "Areas/IGPS/Metodologías Ágile/Scrum/Scrum.md",
     "Recursos/universidad/Mates/CONFERENCIAS/segundo parcial/CONF18/CONF18 - Autovalores y Autovectores.pdf",
@@ -199,7 +201,6 @@
     "Recursos/universidad/Mates/CONFERENCIAS/segundo parcial/CONF17/CONF17 - Normas de Vectores y Matrices.pdf",
     "Recursos/universidad/Mates/CONFERENCIAS/segundo parcial/CONF18/7.2.pdf",
     "Recursos/universidad/Mates/CONFERENCIAS/segundo parcial/CONF14/CONF14 - Álgebra Lineal e Inversión de Matriz.pdf",
-    "Recursos/universidad/Mates/CONFERENCIAS/segundo parcial/CONF17/7.1.pdf",
     "Recursos/universidad/IGPS/README.md",
     "Recursos/universidad/IGPS/brain_storming.md",
     "Recursos/universidad/Física/electromagnetismo.md",
