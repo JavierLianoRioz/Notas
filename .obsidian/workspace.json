@@ -180,9 +180,7 @@
       "templates:Insertar plantilla": true,
       "command-palette:Abrir paleta de comandos": false,
       "table-editor-obsidian:Advanced Tables Toolbar": true,
-      "markdown-importer:Abrir el importador de Markdown": true,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "markdown-importer:Abrir el importador de Markdown": true
     }
   },
   "active": "98a7b83f5d25dd02",
