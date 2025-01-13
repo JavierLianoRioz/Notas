@@ -19,30 +19,30 @@
   "dark": [
     {
       "node_size": 5,
-      "node_repulsion": 0,
-      "link_distance": 17,
+      "node_repulsion": 5,
+      "link_distance": 25,
       "link_width": 1,
       "link_particle_size": 2,
-      "link_particle_number": 2,
-      "text_color_angle": 0,
-      "bloom_strength": 2,
+      "link_particle_number": 3,
+      "text_color_angle": 2,
+      "bloom_strength": 0.8,
       "toggle_global_map": true,
       "toggle_label_display": true,
       "toggle_highlight_track_mode": false,
       "toggle_selection_box": true,
-      "colorMapSource": "Default dark",
+      "colorMapSource": "'AnuPpuccin' - dark ",
       "colorMap": {
         "markdown": {
-          "name": "default",
-          "value": "#00ff00"
+          "name": "theme",
+          "value": "#8e95b3"
         },
         "attachment": {
-          "name": "default",
-          "value": "#ffff00"
+          "name": "theme",
+          "value": "#f9e2af"
         },
         "broken": {
-          "name": "default",
-          "value": "#ff0000"
+          "name": "theme",
+          "value": "#a1a8c9"
         },
         "excalidraw": {
           "name": "default",
@@ -53,8 +53,8 @@
           "value": "#0000ff"
         },
         "tag": {
-          "name": "default",
-          "value": "#ff00ff"
+          "name": "theme",
+          "value": "#a6e3a1"
         },
         "frontmatter_tag": {
           "name": "default",
@@ -65,20 +65,20 @@
           "value": "#7f00ff"
         },
         "nodeHighlightColor": {
-          "name": "default",
-          "value": "#3333ff"
+          "name": "theme",
+          "value": "#cba6f7"
         },
         "nodeFocusColor": {
-          "name": "default",
-          "value": "#ff3333"
+          "name": "theme",
+          "value": "#cba6f7"
         },
         "linkHighlightColor": {
-          "name": "default",
-          "value": "#ffffff"
+          "name": "theme",
+          "value": "#cba6f7"
         },
         "linkNormalColor": {
-          "name": "default",
-          "value": "#ffffff"
+          "name": "theme",
+          "value": "#565970"
         },
         "linkParticleColor": {
           "name": "default",
@@ -97,7 +97,7 @@
           "value": "#000003"
         }
       },
-      "cameraDistance": 0
+      "cameraDistance": 244.74116180807218
     },
     {
       "node_size": 5,
@@ -109,7 +109,7 @@
       "text_color_angle": 0,
       "bloom_strength": 2,
       "toggle_global_map": true,
-      "toggle_label_display": false,
+      "toggle_label_display": true,
       "toggle_highlight_track_mode": false,
       "toggle_selection_box": true,
       "colorMapSource": "Default dark",
