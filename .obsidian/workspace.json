@@ -4,37 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f9ba6cc955a7b082",
+        "id": "c1315dc44c71e444",
         "type": "tabs",
         "children": [
           {
-            "id": "76765c33e9b691da",
+            "id": "0542a3e06c4713d4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TagsRoutes/logMessage.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "logMessage"
-            }
-          }
-        ]
-      },
-      {
-        "id": "59ed990a6d7debf6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "114b35cf7797ec66",
-            "type": "leaf",
-            "state": {
-              "type": "tags-routes",
+              "type": "empty",
               "state": {},
-              "icon": "waypoints",
-              "title": "Tags routes"
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -99,6 +79,22 @@
     "id": "73776542860a290f",
     "type": "split",
     "children": [
+      {
+        "id": "963a040e7ab8b6bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0f2e78079e030fa",
+            "type": "leaf",
+            "state": {
+              "type": "tags-routes",
+              "state": {},
+              "icon": "waypoints",
+              "title": "Tags routes"
+            }
+          }
+        ]
+      },
       {
         "id": "5dde2f428f2ee0f3",
         "type": "tabs",
@@ -203,10 +199,10 @@
       "tags-routes:Open tags routes": false
     }
   },
-  "active": "98a7b83f5d25dd02",
+  "active": "0542a3e06c4713d4",
   "lastOpenFiles": [
-    "Recursos/universidad/Mates/CONFERENCIAS/CONF07/4.5.pdf",
     "TagsRoutes/logMessage.md",
+    "Recursos/universidad/Mates/CONFERENCIAS/CONF07/4.5.pdf",
     "Areas/IGPS/Software e Ingeniería/Ingeniería de Software/Ingeniería de Software.md",
     "TagsRoutes/logs",
     "TagsRoutes",
@@ -234,7 +230,6 @@
     "Areas/Física/Fuerza Magnética.md",
     "Areas/Física/Física.md",
     "Recursos/universidad/IGPS/Presentaciones de clase/01-IGPS-Software-e-Ingeniería-_1_.pdf",
-    "Recursos/universidad/Mates/CONFERENCIAS/segundo parcial/CONF18/CONF18 - Autovalores y Autovectores.pdf",
     "Recursos/universidad/IGPS/README.md",
     "Recursos/universidad/IGPS/brain_storming.md",
     "Recursos/universidad/Física/electromagnetismo.md",

@@ -1,7 +1,7 @@
 {
   "saveSpecVer": 10203,
-  "enableSave": true,
-  "enableShow": true,
+  "enableSave": false,
+  "enableShow": false,
   "currentSlotNum": 1,
   "themeSlotNum": {
     "dark": 1,
@@ -27,7 +27,7 @@
       "text_color_angle": 0,
       "bloom_strength": 2,
       "toggle_global_map": true,
-      "toggle_label_display": false,
+      "toggle_label_display": true,
       "toggle_highlight_track_mode": false,
       "toggle_selection_box": true,
       "colorMapSource": "Default dark",
